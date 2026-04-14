@@ -21,7 +21,7 @@ Built for the Artificial Intelligence course at **NUCES – Chiniot-Faisalabad C
 
 ```
 sudoku-solver/
-├── sudoku_solver.py   # Main solver (all logic in one file)
+├── solver.py   # Main solver (all logic in one file)
 ├── easy.txt           # Easy puzzle input
 ├── medium.txt         # Medium puzzle input
 ├── hard.txt           # Hard puzzle input
@@ -41,7 +41,7 @@ git clone https://github.com/MMursaleenMustafvi/sudoku-csp-solver.git
 cd sudoku-csp-solver
 
 # Run the solver (solves all 4 boards automatically)
-python3 sudoku_solver.py
+python solver.py
 ```
 
 ---
