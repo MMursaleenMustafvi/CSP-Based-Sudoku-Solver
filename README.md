@@ -37,7 +37,7 @@ sudoku-solver/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/sudoku-csp-solver.git
+git clone https://github.com/MMursaleenMustafvi/sudoku-csp-solver.git
 cd sudoku-csp-solver
 
 # Run the solver (solves all 4 boards automatically)
@@ -203,6 +203,6 @@ solve(grid)
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Muhammad Mursaleen Mustafvi]**  
 BS Computer Science — NUCES Chiniot-Faisalabad Campus  
 Course: Artificial Intelligence
